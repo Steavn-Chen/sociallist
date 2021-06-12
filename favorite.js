@@ -127,3 +127,4 @@ iconMode.addEventListener('click', function oniconModeclicked(event) {
   }
 })
 renderPersonsList(persons);
+
